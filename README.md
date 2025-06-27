@@ -112,22 +112,23 @@ const aditya = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityakumar-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-dev&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadity31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadity31&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityakumar-dev&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Aadity31&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
   
-[![Trophy](https://github-profile-trophy.vercel.app/?username=adityakumar-dev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Aadity31&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 
 ---
 
