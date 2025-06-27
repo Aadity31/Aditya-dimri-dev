@@ -101,10 +101,14 @@ const aditya = {
 ---
 
 **Specialties:**
-- 🔋 Building **offline-first** and **low-resource** AI systems
-- 🏗️ Developing full-stack systems with **real-time updates** and **emergency response** features
-- 🛡️ Creating **self-hosted** and **privacy-respecting** solutions
-- 🏥 **Healthcare** and **public safety** system design
+- 🔋 Offline-First AI Systems & Local Data Processing  
+- 📱 Mobile–PC Interconnected Ecosystem Design  
+- 🧠 Context-Aware & Personalized Assistant Development  
+- 🧩 Multi-Device Communication Protocols & Synchronization  
+- 🛡️ Privacy-First Architecture & Secure Data Flow  
+- 🏛️ Full-Stack Hostel Visitor Management System (Govt.-Approved)  
+- 🧪 Experimental AI System Design & Real-World Prototyping  
+
 
 ---
 
