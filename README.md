@@ -2,12 +2,12 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Mobile+Developer;System+Designer;Open-Source+Enthusiast;Building+Intelligent+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Offline-first+AI+Engineer;Healthcare+Tech+Innovator;System+Designer;Open-Source+Contributor;Building+Multi-device+Ecosystems)](https://git.io/typing-svg)
 
-**🚀 Aspiring AI Engineer | Mobile Developer | System Designer | Open-Source Enthusiast**
+**🚀  AI Engineer | System Designer | Open-Source Contributor**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=adityakumar-dev&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/adityakumar-dev)
-[![GitHub followers](https://img.shields.io/github/followers/adityakumar-dev?logo=github&style=for-the-badge&color=0e75b6&labelColor=1a1a1a)](https://github.com/adityakumar-dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aadity31&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Aadity31)
+[![GitHub followers](https://img.shields.io/github/followers/Aadity31?logo=github&style=for-the-badge&color=0e75b6&labelColor=1a1a1a)](https://github.com/Aadity31)
 
 </div>
 
