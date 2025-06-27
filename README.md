@@ -158,11 +158,13 @@ graph TB
 
 <div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/adityakumar_dev?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1a1a1a)](https://twitter.com/adityakumar_dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakumar-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakumar.devxlinux@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AadiDimri?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1a1a1a)](https://x.com/AadiDimri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-dimri-6553b6253/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadimri04@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aditya1-eta.vercel.app/)
 
 </div>
+
 
 ---
 
