@@ -19,15 +19,17 @@ I'm a **2nd year engineering student** passionate about building **intelligent, 
 
 ```typescript
 const aditya = {
-    status: "2nd Year Engineering Student",
-    location: "India 🇮🇳",
-    focus: ["AI Systems", "Mobile Development", "System Design"],
-    passion: "Building intelligent, impactful, and accessible systems",
-    specialties: ["Offline-first AI", "Healthcare Tech", "Emergency Response"],
-    achievements: ["2x Hackathon Winner", "Government Platform Developer"],
-    seeking: "Research & Internship opportunities in AI system design",
-    funFact: "I code best when I'm slightly sleepy ☕"
+    fullName: "Aditya Dimri",
+    status: "2nd Year B.Tech CSE (AI & ML) Student at GEHU",
+    location: "Dehradun, India 🇮🇳",
+    focus: ["AI Systems", "Mobile Development", "System Design", "Offline Connectivity"],
+    passion: "Creating privacy-respecting, intelligent ecosystems that assist in real-life use cases",
+    specialties: ["Offline-first AI", "Healthcare Tech", "Emergency Response", "Multi-device Ecosystems"],
+    achievements: ["2x Hackathon Winner", "Government-Backed Visitor Management System Developer"],
+    seeking: "Research & Internship opportunities in AI system design and health-tech",
+    funFact: "I get my best ideas when debugging at 2AM 😴💡"
 };
+
 ```
 
 - 🔭 Currently working on **offline-first AI systems** and **intelligent mobile solutions**
