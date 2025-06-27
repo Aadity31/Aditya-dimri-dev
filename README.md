@@ -32,14 +32,14 @@ const aditya = {
 
 ```
 
-- 🔭 Currently working on **offline-first AI systems** and **intelligent mobile solutions**
-- 🌱 Exploring **AI system design**, **intelligent interfaces**, and **health-tech** innovation
-- 👯 Looking to collaborate on **AI-powered applications** and **open-source projects**
-- 🏆 **2x Hackathon Winner** (1x National Level, 1x College Level)
-- 🏛️ Developed and deployed a full-stack **government-backed platform** for Visitor & Entry Management System
-- 💬 Ask me about **AI integration**, **offline systems**, **mobile development**, and **emergency response tech**
-- 📫 Reach me at: **adityakumar.devxlinux@gmail.com**
-- 🎯 Actively seeking **research and internship opportunities** in **AI system design** and **health-tech**
+- 🔭 Currently working on **offline-first AI systems** and **intelligent mobile ecosystems**
+- 🌱 Exploring **AI system design**, **privacy-first architectures**, and **health-tech** innovation
+- 👯 Looking to collaborate on **AI-powered apps**, **device interconnectivity**, and **open-source tools**
+- 🏆 
+- 🏛️ Built and deployed a full-stack **government-backed Visitor & Entry Management System**
+- 💬 Ask me about **offline AI**, **multi-device communication**, **mobile development**, and **emergency response solutions**
+- 📫 Reach me at: **adityadimri04@gmail.com**
+- 🎯 Actively seeking **research and internship opportunities** in **AI ecosystems**, **system design**, and **healthcare automation**
 
 ---
 
